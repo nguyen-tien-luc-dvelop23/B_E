@@ -1,0 +1,14 @@
+E:\bai_tap_lap\BaiTap10_Lap1.1\bin\Debug\net8.0\BaiTap10_Lap1.1.exe
+E:\bai_tap_lap\BaiTap10_Lap1.1\bin\Debug\net8.0\BaiTap10_Lap1.1.deps.json
+E:\bai_tap_lap\BaiTap10_Lap1.1\bin\Debug\net8.0\BaiTap10_Lap1.1.runtimeconfig.json
+E:\bai_tap_lap\BaiTap10_Lap1.1\bin\Debug\net8.0\BaiTap10_Lap1.1.dll
+E:\bai_tap_lap\BaiTap10_Lap1.1\bin\Debug\net8.0\BaiTap10_Lap1.1.pdb
+E:\bai_tap_lap\BaiTap10_Lap1.1\obj\Debug\net8.0\BaiTap10_Lap1.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\bai_tap_lap\BaiTap10_Lap1.1\obj\Debug\net8.0\BaiTap10_Lap1.1.AssemblyInfoInputs.cache
+E:\bai_tap_lap\BaiTap10_Lap1.1\obj\Debug\net8.0\BaiTap10_Lap1.1.AssemblyInfo.cs
+E:\bai_tap_lap\BaiTap10_Lap1.1\obj\Debug\net8.0\BaiTap10_Lap1.1.csproj.CoreCompileInputs.cache
+E:\bai_tap_lap\BaiTap10_Lap1.1\obj\Debug\net8.0\BaiTap10_Lap1.1.dll
+E:\bai_tap_lap\BaiTap10_Lap1.1\obj\Debug\net8.0\refint\BaiTap10_Lap1.1.dll
+E:\bai_tap_lap\BaiTap10_Lap1.1\obj\Debug\net8.0\BaiTap10_Lap1.1.pdb
+E:\bai_tap_lap\BaiTap10_Lap1.1\obj\Debug\net8.0\BaiTap10_Lap1.1.genruntimeconfig.cache
+E:\bai_tap_lap\BaiTap10_Lap1.1\obj\Debug\net8.0\ref\BaiTap10_Lap1.1.dll

@@ -1,0 +1,14 @@
+E:\bai_tap_lap\lamquenvoic#\bin\Debug\net8.0\lamquenvoic#.exe
+E:\bai_tap_lap\lamquenvoic#\bin\Debug\net8.0\lamquenvoic#.deps.json
+E:\bai_tap_lap\lamquenvoic#\bin\Debug\net8.0\lamquenvoic#.runtimeconfig.json
+E:\bai_tap_lap\lamquenvoic#\bin\Debug\net8.0\lamquenvoic#.dll
+E:\bai_tap_lap\lamquenvoic#\bin\Debug\net8.0\lamquenvoic#.pdb
+E:\bai_tap_lap\lamquenvoic#\obj\Debug\net8.0\lamquenvoic#.GeneratedMSBuildEditorConfig.editorconfig
+E:\bai_tap_lap\lamquenvoic#\obj\Debug\net8.0\lamquenvoic#.AssemblyInfoInputs.cache
+E:\bai_tap_lap\lamquenvoic#\obj\Debug\net8.0\lamquenvoic#.AssemblyInfo.cs
+E:\bai_tap_lap\lamquenvoic#\obj\Debug\net8.0\lamquenvoic#.csproj.CoreCompileInputs.cache
+E:\bai_tap_lap\lamquenvoic#\obj\Debug\net8.0\lamquenvoic#.dll
+E:\bai_tap_lap\lamquenvoic#\obj\Debug\net8.0\refint\lamquenvoic#.dll
+E:\bai_tap_lap\lamquenvoic#\obj\Debug\net8.0\lamquenvoic#.pdb
+E:\bai_tap_lap\lamquenvoic#\obj\Debug\net8.0\lamquenvoic#.genruntimeconfig.cache
+E:\bai_tap_lap\lamquenvoic#\obj\Debug\net8.0\ref\lamquenvoic#.dll
