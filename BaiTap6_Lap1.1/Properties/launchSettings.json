@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BaiTap6_Lap1.1": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

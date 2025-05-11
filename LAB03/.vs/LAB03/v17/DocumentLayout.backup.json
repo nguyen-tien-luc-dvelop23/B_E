@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "E:\\Lap1.3\\LAB03\\",
   "Documents": [
     {
@@ -13,6 +14,13 @@
     {
       "AbsoluteMoniker": "D:0:0:{1189A49E-8902-490F-BC0C-7334580D0CB9}|BaiTap1\\BaiTap1.csproj|e:\\lap1.3\\lab03\\baitap1\\baitap1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1189A49E-8902-490F-BC0C-7334580D0CB9}|BaiTap1\\BaiTap1.csproj|solutionrelative:baitap1\\baitap1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+=======
+  "WorkspaceRootPath": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\CNTT-17-02\\LAB03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41397FF1-C66D-4FB4-8211-BDE5372F16BB}|Bai16\\Bai16.csproj|d:\\learn\\2025_2025(3)\\thietkebackend\\cntt-17-02\\lab03\\bai16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41397FF1-C66D-4FB4-8211-BDE5372F16BB}|Bai16\\Bai16.csproj|solutionrelative:bai16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 1a0cf107a837fb002e932dffd95a05d56f819dd2
     }
   ],
   "DocumentGroupContainers": [
@@ -22,6 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -40,10 +49,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-11T13:25:56.306Z",
               "EditorCaption": ""
+=======
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+>>>>>>> 1a0cf107a837fb002e932dffd95a05d56f819dd2
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "PhanSo.cs",
               "DocumentMoniker": "E:\\Lap1.3\\LAB03\\BaiTap1\\PhanSo.cs",
               "RelativeDocumentMoniker": "BaiTap1\\PhanSo.cs",
@@ -65,6 +82,16 @@
               "ViewState": "AgIAADYAAAAAAAAAAADwv1EAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T13:14:33.61Z",
+=======
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\CNTT-17-02\\LAB03\\Bai16\\Program.cs",
+              "RelativeDocumentMoniker": "Bai16\\Program.cs",
+              "ToolTip": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\CNTT-17-02\\LAB03\\Bai16\\Program.cs",
+              "RelativeToolTip": "Bai16\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:01:25.603Z",
+>>>>>>> 1a0cf107a837fb002e932dffd95a05d56f819dd2
               "EditorCaption": ""
             }
           ]

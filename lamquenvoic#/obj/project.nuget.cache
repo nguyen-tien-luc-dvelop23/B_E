@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PbBBSpCwODY=",
+  "success": true,
+  "projectFilePath": "E:\\bai_tap_lap\\lamquenvoic#\\lamquenvoic#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucdu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

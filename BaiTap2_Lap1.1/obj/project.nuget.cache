@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+b/O0PMXAsw=",
+  "success": true,
+  "projectFilePath": "E:\\bai_tap_lap\\BaiTap2_Lap1.1\\BaiTap2_Lap1.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucdu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
