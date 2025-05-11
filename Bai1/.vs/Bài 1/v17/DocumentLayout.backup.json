@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lap1.3\\B\u00E0i 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DFB83C-B858-47E6-94AB-DC44BD8EF71E}|B\u00E0i 1.csproj|e:\\lap1.3\\b\u00E0i 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DFB83C-B858-47E6-94AB-DC44BD8EF71E}|B\u00E0i 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DFB83C-B858-47E6-94AB-DC44BD8EF71E}|B\u00E0i 1.csproj|e:\\lap1.3\\b\u00E0i 1\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DFB83C-B858-47E6-94AB-DC44BD8EF71E}|B\u00E0i 1.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DFB83C-B858-47E6-94AB-DC44BD8EF71E}|B\u00E0i 1.csproj|e:\\lap1.3\\b\u00E0i 1\\kysu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DFB83C-B858-47E6-94AB-DC44BD8EF71E}|B\u00E0i 1.csproj|solutionrelative:kysu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DFB83C-B858-47E6-94AB-DC44BD8EF71E}|B\u00E0i 1.csproj|e:\\lap1.3\\b\u00E0i 1\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DFB83C-B858-47E6-94AB-DC44BD8EF71E}|B\u00E0i 1.csproj|solutionrelative:congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DFB83C-B858-47E6-94AB-DC44BD8EF71E}|B\u00E0i 1.csproj|e:\\lap1.3\\b\u00E0i 1\\canbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DFB83C-B858-47E6-94AB-DC44BD8EF71E}|B\u00E0i 1.csproj|solutionrelative:canbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "E:\\Lap1.3\\B\u00E0i 1\\NhanVien.cs",
+              "RelativeDocumentMoniker": "NhanVien.cs",
+              "ToolTip": "E:\\Lap1.3\\B\u00E0i 1\\NhanVien.cs*",
+              "RelativeToolTip": "NhanVien.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:33:24.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KySu.cs",
+              "DocumentMoniker": "E:\\Lap1.3\\B\u00E0i 1\\KySu.cs",
+              "RelativeDocumentMoniker": "KySu.cs",
+              "ToolTip": "E:\\Lap1.3\\B\u00E0i 1\\KySu.cs*",
+              "RelativeToolTip": "KySu.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:33:07.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CongNhan.cs",
+              "DocumentMoniker": "E:\\Lap1.3\\B\u00E0i 1\\CongNhan.cs",
+              "RelativeDocumentMoniker": "CongNhan.cs",
+              "ToolTip": "E:\\Lap1.3\\B\u00E0i 1\\CongNhan.cs*",
+              "RelativeToolTip": "CongNhan.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:32:43.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CanBo.cs",
+              "DocumentMoniker": "E:\\Lap1.3\\B\u00E0i 1\\CanBo.cs",
+              "RelativeDocumentMoniker": "CanBo.cs",
+              "ToolTip": "E:\\Lap1.3\\B\u00E0i 1\\CanBo.cs*",
+              "RelativeToolTip": "CanBo.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvzQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:32:18.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Lap1.3\\B\u00E0i 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Lap1.3\\B\u00E0i 1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAswHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:31:47.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
