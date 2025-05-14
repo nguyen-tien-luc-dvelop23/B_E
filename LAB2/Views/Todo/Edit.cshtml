@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Chỉnh sửa công việc";
+    var id = ViewBag.TaskId;
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4 text-warning">✏️ Chỉnh sửa công việc - ID: @id</h2>
+
+    <form method="post" class="shadow p-4 rounded bg-light">
+        <div class="mb-3">
+            <label for="taskName" class="form-label">Tên công việc</label>
+            <input type="text" class="form-control" id="taskName" name="taskName" value="Tên công việc cần sửa" required>
+        </div>
+
+        <button type="submit" class="btn btn-primary">
+            <i class="bi bi-save"></i> Lưu thay đổi
+        </button>
+        <a href="/Todo" class="btn btn-secondary ms-2">Quay lại</a>
+    </form>
+</div>

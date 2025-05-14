@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CNTT-17_02_backend\\LAB2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97F934C2-373D-4E60-88CD-362117267A98}|LAB2\\LAB2.csproj|d:\\cntt-17_02_backend\\lab2\\lab2\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F934C2-373D-4E60-88CD-362117267A98}|LAB2\\LAB2.csproj|solutionrelative:lab2\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F934C2-373D-4E60-88CD-362117267A98}|LAB2\\LAB2.csproj|d:\\cntt-17_02_backend\\lab2\\lab2\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F934C2-373D-4E60-88CD-362117267A98}|LAB2\\LAB2.csproj|solutionrelative:lab2\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F934C2-373D-4E60-88CD-362117267A98}|LAB2\\LAB2.csproj|d:\\cntt-17_02_backend\\lab2\\lab2\\views\\todo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F934C2-373D-4E60-88CD-362117267A98}|LAB2\\LAB2.csproj|solutionrelative:lab2\\views\\todo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F934C2-373D-4E60-88CD-362117267A98}|LAB2\\LAB2.csproj|d:\\cntt-17_02_backend\\lab2\\lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F934C2-373D-4E60-88CD-362117267A98}|LAB2\\LAB2.csproj|solutionrelative:lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F934C2-373D-4E60-88CD-362117267A98}|LAB2\\LAB2.csproj|d:\\cntt-17_02_backend\\lab2\\lab2\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F934C2-373D-4E60-88CD-362117267A98}|LAB2\\LAB2.csproj|solutionrelative:lab2\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\CNTT-17_02_backend\\LAB2\\LAB2\\Views\\Todo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LAB2\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "D:\\CNTT-17_02_backend\\LAB2\\LAB2\\Views\\Todo\\Edit.cshtml*",
+              "RelativeToolTip": "LAB2\\Views\\Todo\\Edit.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T02:23:26.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\CNTT-17_02_backend\\LAB2\\LAB2\\Views\\Todo\\Add.cshtml",
+              "RelativeDocumentMoniker": "LAB2\\Views\\Todo\\Add.cshtml",
+              "ToolTip": "D:\\CNTT-17_02_backend\\LAB2\\LAB2\\Views\\Todo\\Add.cshtml*",
+              "RelativeToolTip": "LAB2\\Views\\Todo\\Add.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T02:22:45.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CNTT-17_02_backend\\LAB2\\LAB2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LAB2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CNTT-17_02_backend\\LAB2\\LAB2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LAB2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T01:54:10.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CNTT-17_02_backend\\LAB2\\LAB2\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB2\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "D:\\CNTT-17_02_backend\\LAB2\\LAB2\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "LAB2\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T01:52:36.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\CNTT-17_02_backend\\LAB2\\LAB2\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "LAB2\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\CNTT-17_02_backend\\LAB2\\LAB2\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "LAB2\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:52:00.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

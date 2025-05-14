@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Thêm công việc";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4 text-primary">📝 Thêm công việc mới</h2>
+
+    <form method="post" class="shadow p-4 rounded bg-light">
+        <div class="mb-3">
+            <label for="taskName" class="form-label">Tên công việc</label>
+            <input type="text" class="form-control" id="taskName" name="taskName" placeholder="Nhập tên công việc" required>
+        </div>
+
+        <button type="submit" class="btn btn-success">
+            <i class="bi bi-plus-circle"></i> Thêm
+        </button>
+        <a href="/Todo" class="btn btn-secondary ms-2">Quay lại</a>
+    </form>
+</div>
