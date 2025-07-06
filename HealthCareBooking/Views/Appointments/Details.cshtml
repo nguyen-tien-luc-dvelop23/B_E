@@ -1,0 +1,42 @@
+﻿@model HealthCareBooking.Models.Appointment
+
+@{
+    ViewData["Title"] = "Chi tiết Lịch hẹn";
+}
+
+<h1>Chi tiết Lịch hẹn</h1>
+
+<div>
+    <h4>Lịch hẹn</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AppointmentDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Model.AppointmentDate.ToString("dd/MM/yyyy HH:mm")
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayName("Bệnh nhân")
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Patient?.FullName
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayName("Bác sĩ")
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Doctor?.FullName
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Notes)
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Notes
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Sửa</a> |
+    <a asp-action="Index">Quay lại danh sách</a>
+</div>

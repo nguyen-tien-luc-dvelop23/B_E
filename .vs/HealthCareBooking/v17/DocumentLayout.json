@@ -1,0 +1,516 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HealthCareBooking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|c:\\users\\lucda\\.nuget\\packages\\bootstrap\\5.3.6\\contentfiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\migrations\\20250628142857_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\migrations\\20250628142857_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\appointments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\appointments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\appointments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\appointments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\appointments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\appointments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\doctors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\doctors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\doctors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\doctors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|e:\\healthcarebooking\\healthcarebooking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CA3FE2-BF80-4361-9C65-08DBE1F1B84C}|HealthCareBooking\\HealthCareBooking.csproj|solutionrelative:healthcarebooking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\lucda\\.nuget\\packages\\bootstrap\\5.3.6\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\lucda\\.nuget\\packages\\bootstrap\\5.3.6\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-05T06:59:39.227Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "HealthCareBooking\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "HealthCareBooking\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACQBAAAAAAAAAAAEwDQBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-28T14:36:56.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:38:50.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:39:05.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Patients\\Index.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Patients\\Index.cshtml",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAkwGQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:24:01.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Patients\\Create.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Patients\\Create.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Patients\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:24:10.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Program.cs",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Program.cs",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Program.cs",
+              "RelativeToolTip": "HealthCareBooking\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:37:10.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Models\\Appointment.cs",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Models\\Appointment.cs",
+              "RelativeToolTip": "HealthCareBooking\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:21:23.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Models\\Doctor.cs",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Models\\Doctor.cs",
+              "RelativeToolTip": "HealthCareBooking\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:21:11.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Models\\Patient.cs",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Models\\Patient.cs",
+              "RelativeToolTip": "HealthCareBooking\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:21:01.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Patients\\Delete.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Patients\\Delete.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Patients\\Delete.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Patients\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:24:36.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Patients\\Details.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Patients\\Details.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Patients\\Details.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Patients\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:24:31.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\appsettings.json",
+              "RelativeDocumentMoniker": "HealthCareBooking\\appsettings.json",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\appsettings.json",
+              "RelativeToolTip": "HealthCareBooking\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-28T13:28:03.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250628142857_InitialCreate.cs",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Migrations\\20250628142857_InitialCreate.cs",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Migrations\\20250628142857_InitialCreate.cs",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Migrations\\20250628142857_InitialCreate.cs",
+              "RelativeToolTip": "HealthCareBooking\\Migrations\\20250628142857_InitialCreate.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T14:29:02.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HealthCareBooking\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:22:23.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Appointments\\Details.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Appointments\\Details.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Appointments\\Details.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Appointments\\Details.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:43:04.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Doctors\\Details.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Doctors\\Details.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Doctors\\Details.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Doctors\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:41:07.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Appointments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Appointments\\Delete.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Appointments\\Delete.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Appointments\\Delete.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:43:34.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Appointments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Appointments\\Edit.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Appointments\\Edit.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Appointments\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:42:44.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Appointments\\Create.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Appointments\\Create.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Appointments\\Create.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Appointments\\Create.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:42:17.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Appointments\\Index.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Appointments\\Index.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Appointments\\Index.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Appointments\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:41:59.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Doctors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Doctors\\Delete.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Doctors\\Delete.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Doctors\\Delete.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:41:28.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Doctors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Doctors\\Edit.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Doctors\\Edit.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Doctors\\Edit.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:40:39.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Patients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Patients\\Edit.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Patients\\Edit.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Patients\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:24:20.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Doctors\\Index.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Doctors\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:25:07.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Doctors\\Create.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Doctors\\Create.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Doctors\\Create.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Doctors\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:25:18.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "HealthCareBooking\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:39:16.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HealthCareBooking\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:37:21.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Controllers\\PatientsController.cs",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "HealthCareBooking\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAowJcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:19:01.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Controllers\\DoctorsController.cs",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "HealthCareBooking\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAowJcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:19:39.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "E:\\HealthCareBooking\\HealthCareBooking\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "HealthCareBooking\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "E:\\HealthCareBooking\\HealthCareBooking\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "HealthCareBooking\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAowKYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:20:02.489Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

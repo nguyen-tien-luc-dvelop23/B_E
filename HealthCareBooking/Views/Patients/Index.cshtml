@@ -1,0 +1,113 @@
+﻿@model IEnumerable<HealthCareBooking.Models.Patient>
+
+@{
+    ViewData["Title"] = "Danh sách Bệnh nhân";
+}
+
+<div class="index-container">
+    <h1 class="mb-5">@ViewData["Title"]</h1>
+
+    <div class="header-section">
+        <div class="action-buttons">
+            <a asp-action="Create" class="btn btn-primary"><i class="fas fa-plus-circle"></i> Thêm mới Bệnh nhân</a>
+        </div>
+    </div>
+
+    <div class="search-filter-section mb-4">
+        <div class="form-group flex-grow-1">
+            <label for="searchName" class="control-label sr-only">Tìm kiếm theo Tên:</label>
+            <input type="text" id="searchName" class="form-control" placeholder="Nhập tên bệnh nhân...">
+        </div>
+        <div class="form-group flex-grow-1">
+            <label for="searchPhone" class="control-label sr-only">Tìm kiếm theo SĐT:</label>
+            <input type="text" id="searchPhone" class="form-control" placeholder="Nhập số điện thoại...">
+        </div>
+        <button type="button" id="searchButton" class="btn btn-secondary"><i class="fas fa-search"></i> Tìm kiếm</button>
+        <button type="button" id="resetButton" class="btn btn-outline-secondary"><i class="fas fa-redo"></i> Đặt lại</button>
+    </div>
+
+
+    <table class="table table-hover table-striped" id="patientsTable">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.FullName)</th>
+                <th>@Html.DisplayNameFor(model => model.DateOfBirth)</th>
+                <th>@Html.DisplayNameFor(model => model.PhoneNumber)</th>
+                <th>@Html.DisplayNameFor(model => model.Address)</th>
+                <th class="text-center">Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.FullName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.DateOfBirth)</td>
+                    <td>@Html.DisplayFor(modelItem => item.PhoneNumber)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Address)</td>
+                    <td class="text-center">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm" title="Sửa"><i class="fas fa-edit"></i></a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm ms-2" title="Chi tiết"><i class="fas fa-info-circle"></i></a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm ms-2" title="Xóa"><i class="fas fa-trash-alt"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    @if (!Model.Any())
+    {
+        <div class="alert alert-warning text-center mt-4" role="alert">
+            <i class="fas fa-exclamation-triangle"></i> Không có bệnh nhân nào trong danh sách.
+        </div>
+    }
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        $(document).ready(function () {
+            // Function to perform client-side filtering
+            function filterPatients() {
+                var searchTextName = $('#searchName').val().toLowerCase();
+                var searchTextPhone = $('#searchPhone').val().toLowerCase();
+
+                $('#patientsTable tbody tr').each(function () {
+                    var fullName = $(this).find('td:eq(0)').text().toLowerCase();
+                    var phoneNumber = $(this).find('td:eq(2)').text().toLowerCase(); // Cột số điện thoại là cột thứ 3 (index 2)
+
+                    var nameMatch = fullName.includes(searchTextName);
+                    var phoneMatch = phoneNumber.includes(searchTextPhone);
+
+                    if (nameMatch && phoneMatch) {
+                        $(this).show(); // Hiển thị hàng nếu khớp cả tên và số điện thoại
+                    } else {
+                        $(this).hide(); // Ẩn hàng nếu không khớp
+                    }
+                });
+            }
+
+            // Event listener for the "Tìm kiếm" button
+            $('#searchButton').on('click', function () {
+                var $this = $(this);
+                var originalText = $this.html();
+
+                // Hiệu ứng loading
+                $this.html('<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Đang tìm...');
+                $this.prop('disabled', true);
+
+                setTimeout(function() {
+                    filterPatients();
+                    $this.html(originalText); // Khôi phục text
+                    $this.prop('disabled', false); // Kích hoạt lại nút
+                }, 500); 
+            });
+            $('#resetButton').on('click', function () {
+                $('#searchName').val('');
+                $('#searchPhone').val(''); 
+                $('#patientsTable tbody tr').show(); 
+            });
+        });
+    </script>
+}

@@ -1,0 +1,45 @@
+﻿@model HealthCareBooking.Models.Appointment
+
+@{
+    ViewData["Title"] = "Xóa Lịch hẹn";
+}
+
+<h1>Xóa Lịch hẹn</h1>
+
+<h3>Bạn có chắc chắn muốn xóa lịch hẹn này không?</h3>
+<div>
+    <h4>Lịch hẹn</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AppointmentDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Model.AppointmentDate.ToString("dd/MM/yyyy HH:mm")
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Patient)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Patient.FullName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Doctor)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Doctor.FullName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Notes)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Notes)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Xóa" class="btn btn-danger" /> |
+        <a asp-action="Index">Quay lại danh sách</a>
+    </form>
+</div>

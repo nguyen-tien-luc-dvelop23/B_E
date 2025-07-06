@@ -1,0 +1,54 @@
+﻿@model IEnumerable<HealthCareBooking.Models.Appointment>
+
+@{
+    ViewData["Title"] = "Danh sách Lịch hẹn";
+}
+
+<h1>Danh sách Lịch hẹn</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Tạo lịch hẹn mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AppointmentDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Patient)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Doctor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Notes)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.AppointmentDate.ToString("dd/MM/yyyy HH:mm")
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Doctor.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Notes)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Sửa</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Chi tiết</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
